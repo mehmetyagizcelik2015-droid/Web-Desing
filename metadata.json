@@ -1,0 +1,8 @@
+{
+  "name": "Remix WebStudio - Sürükle Bırak Web Sitesi Tasarımcısı",
+  "description": "Kullanıcıların sürükle-bırak yöntemiyle görsel olarak modern, mobil uyumlu web siteleri tasarlayabileceği, hazır bloklar ve şablonlar içeren web sitesi oluşturma platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
